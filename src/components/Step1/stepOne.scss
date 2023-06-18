@@ -1,0 +1,15 @@
+.steps-container {
+  padding: 62px 110px 0;
+}
+
+.form__input_step1 {
+  max-width: 300px;
+}
+
+.form__label_step1 {
+  margin-bottom: 24px;
+
+  &:last-of-type {
+    margin-bottom: 88px;
+  }
+}
